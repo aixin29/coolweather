@@ -2,9 +2,7 @@ package com.coolweather.android.gson;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by lenovo on 2017/12/6.
- */
+
 
 public class Suggestion {
 
